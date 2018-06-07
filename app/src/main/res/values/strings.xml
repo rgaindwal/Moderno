@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moderno</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="signup">Sign Up</string>
+</resources>

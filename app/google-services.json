@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "237028181582",
+    "firebase_url": "https://moderno-9da3d.firebaseio.com",
+    "project_id": "moderno-9da3d",
+    "storage_bucket": "moderno-9da3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237028181582:android:46a1a793bf07ac3a",
+        "android_client_info": {
+          "package_name": "com.example.rgain.moderno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237028181582-uquph3qiishm2hr1hd1sm1gf9lieem3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rgain.moderno",
+            "certificate_hash": "5732e936e606a8f8545066634afcc3fb30eb5532"
+          }
+        },
+        {
+          "client_id": "237028181582-5o60n318itb52073svnq9tkaeh2maanf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "237028181582-5o60n318itb52073svnq9tkaeh2maanf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYG2hKvK3XGQLjOy9Z7qtTTpBiIZ9OqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237028181582-5o60n318itb52073svnq9tkaeh2maanf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
